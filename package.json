@@ -1,6 +1,6 @@
 {
   "name": "bpkg-test",
   "version": "0.1.0",
-  "description": "This is test package for test of homebrew"
+  "description": "This is test package for test of homebrew",
   "global": "false"
 }
