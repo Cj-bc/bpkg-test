@@ -3,5 +3,8 @@
   "version": "0.2.0",
   "description": "This is test package for test of homebrew",
   "global": "false",
-  "scripts": [ "bpkg-test.sh" ]
+  "scripts": [ "bpkg-test.sh" ],
+  "dependencies": {
+    "term": "0.0.1"
+  }
 }
